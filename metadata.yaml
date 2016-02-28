@@ -1,0 +1,25 @@
+_repo: Indian-Frontier-Policy-an-historical-sketch_7021
+creator:
+  author:
+    agent_name: Adye, John, Sir
+    alias: Adye, John Miller, Sir
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '2309'
+    url: http://www.gutenberg.org/2009/agents/2309
+    wikipedia: http://en.wikipedia.org/wiki/John_Miller_Adye
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Eastern question (Central Asia)'
+- !lcsh 'Afghan Wars'
+title: Indian Frontier Policy; an historical sketch
+url: http://www.gutenberg.org/ebooks/7021
